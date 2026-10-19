@@ -1,6 +1,6 @@
 {
   "name": "huffman-coding",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generates and applies variable-length prefix codes based on character frequency for text compression.",
   "type": "module",
   "main": "src/index.js",
